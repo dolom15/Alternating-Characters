@@ -1,1 +1,1 @@
-# Alternating-Characters
+# Alternating-Characters This code calculates the minimum number of deletions needed so that no two consecutive characters in a string are the same. It iterates through the string, counting each occurrence where a character matches the previous one, and returns that count.
